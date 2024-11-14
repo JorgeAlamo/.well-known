@@ -6,7 +6,10 @@
         "target": {
             "site": "https://jorgealamo.github.io",
             "namespace": "android_app",
-            "package_name": "com.example.webauthndemo"
+            "package_name": "com.example.webauthndemo",
+            "sha256_cert_fingerprints": [
+                "70:A7:71:48:AE:4D:1B:60:DB:22:9A:2F:86:4F:58:A6:9E:5E:CF:5C:F0:6C:69:82:5D:1D:85:B8:14:A7:2D:90"
+            ]
         }
     }
 ]
